@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>CICDExample</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>CICDExample</name>
     <description>CICDExample</description>
     <url />
@@ -21,7 +21,7 @@
     </developers>
     <scm>
         <developerConnection>scm:git:git@github.com:leaf-lxh/CICDExample.git</developerConnection>
-      <tag>CICDExample-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 <!--    <scm>-->
 <!--        <connection/>-->
