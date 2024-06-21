@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>CICDExample</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>CICDExample</name>
     <description>CICDExample</description>
     <url />
